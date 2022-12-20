@@ -39,7 +39,7 @@ main{
 }
 
 .card{
-    width: 21.25rem;
+    width: 20.625rem; /* 330px */
     padding: 20px;
     border-radius: 20px;
     display: flex;
@@ -51,18 +51,18 @@ main{
 }
 .img{
     /* margin: 20px; */
-    width: 18.75rem;
-    height: 18.75rem;
+    width: 18.125rem; /* 290px */
+    height: 18.125rem; /* 290px */
     border-radius: 15px;
     background: url(./image-qr-code.png);
     background-size: contain;
 }
 h1{
-    font-size: 1.375rem;
+    font-size: 1.375rem; /* 22px */
     padding: 20px 10px;
 }
 p{
-    font-size: 0.9375rem;
+    font-size: 0.9375rem; /* 15px */
     font-weight: 400;
     padding: 20px;
     padding-top: 0;
